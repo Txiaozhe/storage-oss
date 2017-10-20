@@ -1,0 +1,25 @@
+{
+	"server": {
+		"address": ":7100",
+		"debug": true
+	},
+
+	"bolt": {
+		"path": "./bolt.db"
+	},
+
+	"ali": {
+		"endpoint": "oss-cn-beijing.aliyuncs.com",
+		"bucket": "yang-test-oss",
+		"access": {
+			"id": "LTAIm0O4R0e2apIW",
+			"secret": "mCpga09GoGWp1JSczakO3YfaYlACpa"
+		}
+	},
+
+	"project": {
+		"proj1": "1111111",
+		"proj4": "2222222",
+		"proj3": "3333333"
+	}
+}
